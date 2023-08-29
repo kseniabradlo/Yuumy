@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+}
+
+.bodysubmit {
+    max-width: 1920px;
+    color: #774E2E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    overflow:hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1170px;
+}
+
+.firstpart {
+    width: 1920px ;
+    height: 911px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;   
+}
+
+
+.navbutton1 a {
+    margin-left: 700px;
+    text-decoration: none;
+    color: #774E2E;
+}
+
+.navbutton2 a {
+    
+    text-decoration: none;
+    color: #774E2E;
+}
+
+.firstpart .textanddog {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainblock {
+    width: 575px;
+    height: 474px;
+}
+
+div h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 110px;
+}
+
+div h1 span {
+    color: #F37F34;
+}
+
+.maintext {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.mainbutton a {
+    background-color: #774E2E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 337px;
+    height: 69px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.maindogpicture img {
+    margin-top: 130px;
+}
+
+.secondpart {
+    background: #FFF9EA;
+    width: 1920px;
+    height: 911px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.secondpart div h2 {
+    color: #F37F34;
+    text-transform: uppercase;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.sweetscontainer {
+    margin-top: 0px;
+    width: 1170px;
+    height: 611px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+} 
+
+
+.sweetsblock {
+    width: 370px;
+    height: 462px;
+    background: white;
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+.thirdpart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.thirdpart .lastblock {
+    width: 1170px;
+    height: 722px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lasttitle h2 {
+    font-size: 72px;
+}
+
+.lasttitle h2 span {
+    color: #F37F34;
+}
+
+
+.lastblockright img {
+    width: 575px;
+}
+
+
+footer {
+    background: #774E2E;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1920px;
+    padding: 20px 0px;
+}
+
+footer img {
+    margin-right: 400px;
+}
